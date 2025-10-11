@@ -1,7 +1,7 @@
 # Self_CS_computer_architecture_OS
 
 <p align="left">
-  <img width="458" height="626" alt="image" src="https://github.com/user-attachments/assets/519ecdbd-bc30-45b1-88bb-a59cde370e40" />
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/519ecdbd-bc30-45b1-88bb-a59cde370e40" />
 </p>
 
 
