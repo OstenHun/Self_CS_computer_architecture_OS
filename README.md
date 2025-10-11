@@ -10,4 +10,5 @@
 ## 혼자 공부하는 컴퓨터구조 + 운영체제
 
 9. [운영체제 시작하기](https://github.com/OstenHun/Self_CS_computer_architecture_OS/tree/main/Ch09)
-10. 
+10. [프로세스와 스레드](https://github.com/OstenHun/Self_CS_computer_architecture_OS/tree/main/Ch10)
+11. 
