@@ -13,4 +13,4 @@
 10. [프로세스와 스레드](https://github.com/OstenHun/Self_CS_computer_architecture_OS/tree/main/Ch10)
 11. [CPU 스케줄링](https://github.com/OstenHun/Self_CS_computer_architecture_OS/tree/main/Ch11)
 12. [프로세스 동기화](https://github.com/OstenHun/Self_CS_computer_architecture_OS/tree/main/Ch12)
-13. [교착상태](https://github.com/OstenHun/Self_CS_computer_architecture_OS/tree/main/Ch13)
+13. [교착 상태](https://github.com/OstenHun/Self_CS_computer_architecture_OS/tree/main/Ch13)
